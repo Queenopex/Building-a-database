@@ -1,1 +1,2 @@
 # Building-a-database
+The goal of this project is to create a database named crimes_db with a table – boston_crimes – with appropriate datatypes for storing the data from the boston.csv file. I will be creating the table inside a schema named crimes. I will also create the readonly and readwrite groups with the appropriate privileges. Finally, I will also need to create one user for each of these groups.
